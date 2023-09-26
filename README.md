@@ -25,5 +25,7 @@ The scatter plot visualization the relationship between weight and tumor size of
 
 # Correlation and Regression
 A scatter plot was plotted and the correlation coefficient as well as the Regression equation was computed on the Capomulin drug Regimen considering the weight of mice anf the tumor volume or size:
-- # Correlation Coefficient: 0.84. There is a strong positive correlation between mouse weight and average tumor volume implying its reliability is 84% with about 16% error or uncertainty.
-- # Regression Equation: `Average Tumor Volume = 0.95 * Mouse Weight + 21.55`, which could be interpreted as all other things being equal, the average tumor volume of a mouse in the Capomulin drug Regimen is 95% of the mouse's orignal weight plus a constant of term of 21.55.
+- # Correlation Coefficient: 0.84.
+-  There is a strong positive correlation between mouse weight and average tumor volume implying a change in mice weight will lead to a 84%  change in tumor volume and vice versa with about 16% error or uncertainty.
+- # Regression Equation: `Average Tumor Volume = 0.95 * Mouse Weight + 21.55`
+-  This could be interpreted as all other things being equal, the average tumor volume of a mouse in the Capomulin drug Regimen is 95% of the mouse's weight plus a constant of term of 21.55.
