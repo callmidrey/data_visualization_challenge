@@ -8,5 +8,19 @@ Data cleaning was done by dropping duplicates and a new dataset named 'clean_mou
 # Statistics Summary
 The drug regimen tested was analyzed by computing the mean, median, variance, standard deviation, and standard error with respect to the tumor observation and  output was printed.
 It was observe that "capomulin" and "Ramicane" seem to be more effective in treating tumor in the population with the least values with respect to the analysis made, with impressively lower SEM.
-It was also observed that the least effective treatement drug was "ketapril" with the highest stats and highest SEM
+It was also observed that the least effective treatement drug was "ketapril" with the highest stats and highest SEM.
+It is important to note that the lower the statistical numbers, the more reiable the data is and vice versa.
+
+# Bar Charts and Pie charts
+It was observe that "capomulin" and "Ramicane" had the highwst timepoints in observation than any other. The drug with the lowest observations was "Proviva"
+The entire population of 249 mice consisted of 127 male mice representing 51% of the entire population with the females representing 49% i.e. 122.
+
+# Quartiles, Outliers, Box plot
+For the 4 drug regimetn analyzed for distribution, it was noticed that "Ceftamin", "Ramicane", and "Capomulin" was skewed to some degree. The only drug regiment with a normal distribution was "Infubinol".
+The outlier was identified as mice with ID number "c326" with tumor volume of 36.12mm^3.
+
+# Line plot
+A line plot was created to analyze the tumor volume for mouse with ID "y793" using drug regimen Capomulin and it was observed that the tumor volume reduced drastically with over the time of the study.
+
+# Correlation and Regression
 
